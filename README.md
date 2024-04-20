@@ -1,6 +1,7 @@
-### Hi there 👋
+<div class="tenor-gif-embed" data-postid="12980208777396115333" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/raccoon-dance-rave-dancing-pedro-gif-12980208777396115333">Raccoon Dance GIF</a>from <a href="https://tenor.com/search/raccoon-gifs">Raccoon GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <!--
+
 **mateus-sposo/mateus-sposo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
