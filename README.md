@@ -30,7 +30,7 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="https://guns.lol/matjubileu"><img alt="" class="GUNS__bc-b037f226-4c8a0b03-ded38864 false" src="https://r2.guns.lol/51b7226c-f634-45ca-9c79-5dafb6b81c81.webp" height="30" /><t>My Profile </t>
+  <a href="https://guns.lol/matjubileu"><img alt="" class="GUNS__bc-b037f226-4c8a0b03-ded38864 false" src="https://r2.guns.lol/51b7226c-f634-45ca-9c79-5dafb6b81c81.webp" height="30" />
   <a href="mat.sposo@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
   <a href="https://br.linkedin.com/in/mateus-sposo"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
