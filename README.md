@@ -1,7 +1,10 @@
 <h2 data-importer="text" align="left">My name is Mateus de Oliveira Sposo and I'm almost a Computer Scientist, from Brazil</h2>
 
 ###
-
+I am a Computer Science student at Facom-UFMS and a member of a Junior Enterprise called Mega Jr., where I have developed practical business, development, and problem-solving skills, while honing my expertise in UI/UX design, front-end development, and Git/GitHub. I am currently conducting research on molecular computing for my capstone project, exploring the potential of analog circuits simulated via DNA reactions. Additionally, I work as an intern at Agetic-UFMS, where I am developing skills in hardware maintenance and assembly, as well as troubleshooting issues related to university systems and operating systems. I am constantly seeking challenges and opportunities that allow me to apply and expand my technical knowledge and skills as a developer.
+<!--
+Sou estudante de Ciência da Computação na Facom-UFMS e membro da Empresa Júnior de Computação Mega Jr., onde desenvolvi habilidades práticas empresariais, de desenvolvimento e solucão de problemas, aprimorando meus conhecimentos em Design UI - UX, desenvolvimento front-end e Git/Github. Estou desenvolvendo uma pesquisa científica para meu Trabalho de Conclusão de Curso sobre Computação Molecular, explorando o potencial de Circuitos Analógicos simulados com reações em DNA. Também estou atuando como estagiário na Agetic - UFMS, onde estou desenvolvendo habilidades em manutenção e montagem de Hardware, solução de problemas no contexto da Universidade e de Sistemas Operacionais. Estou sempre em busca de desafios e oportunidades que me permitam aplicar e expandir meu conhecimento tecnológico e como desenvolvedor.
+-->
 ###
 
 <img data-importer="image" align="right" height="150" src="https://media1.tenor.com/m/11c3RnsH6WYAAAAd/until-then-32-bit.gif"  />
